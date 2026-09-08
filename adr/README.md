@@ -1,6 +1,6 @@
 # ADR Decision Summary
 
-**Export Date:** 2026-09-08T13:54:28.765Z
+**Export Date:** 2026-09-08T14:17:19.819Z
 **Total ADRs:** 14 | **Decided:** 0 | **Deferred:** 0 | **Pending:** 14
 
 | ADR | Title | Status | Decision |
